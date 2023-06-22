@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @kemyllynGaby
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas vindas ao meu perfil 💙
 
-<!---
-kemyllynGaby/kemyllynGaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Kemy
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem HTML e CSS
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+### Você entrar em contato comigo 📫
+
+Kemygaby06@gmail.com
+
+@kemy_gp  
+
+![](https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif)
