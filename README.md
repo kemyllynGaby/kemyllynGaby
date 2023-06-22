@@ -10,6 +10,4 @@ Meu nome é Kemy
 
 Kemygaby06@gmail.com
 
-@kemy_gp  
-
 ![](https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif)
